@@ -1,7 +1,7 @@
 Zadanie 1
 =========
 
-![zadanie1](zadanie1.png)
+![zadanie1](zadanie_new1.png)
 
 Lista komend: 
 + git commit
