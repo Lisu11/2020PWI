@@ -20,7 +20,7 @@ git merge C3'
 git merge C4
 git checkout C3'
 git merge C2'
-git vheckout C6
+git checkout C6
 git branch one
 git checkout C8
 git branch two
