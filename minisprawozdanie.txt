@@ -1,0 +1,29 @@
+# Kolokwium 2
+
+## Zadanie 1
+    -git commit
+    -git commit
+    -git commit
+    -git commit
+    -git checkout c2
+    -git commit --amend
+    -git branch two
+    -git checkout c1
+    -git cherry-pick c3
+    -git checkout c3
+    -git merge c3'
+    -git branch one
+    -git merge c4
+    -git checkout two
+    -git merge c3'
+    -git checkout c7
+    -git commit
+![alternatywny tekst](../drzewko.jpg "Drzewko")
+
+## Zadanie 2
+	-echo -n 323638 | sha256sum
+	- git blame zadanie2.txt | grep 406080
+	-git checkout 2c95b732 
+	-git switch -c galaz_3236
+	-git add
+	-git commit -m "comit z rozwiazaniem"
